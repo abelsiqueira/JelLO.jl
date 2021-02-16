@@ -1,5 +1,5 @@
 module JelLO
 
-greet() = print("Hello World!")
+include("simplex.jl")
 
 end # module
